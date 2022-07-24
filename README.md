@@ -1,2 +1,0 @@
-# validator-folder
-validator-folder
